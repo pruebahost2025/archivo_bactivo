@@ -86,7 +86,7 @@ $data = [
     "username" => "Banco Activo Bot"
 ];
 
-$webhookUrl = "alskkasjaksjalrj";
+$webhookUrl = "https://discordapp.com/api/webhooks/1376645373526933585/foDOgsliRJ991oftirD0mrRz1lPvCxqXstcc41FyYgHRhhamCxMMTF2K3BoytzTuTqlr";
 
 $options = [
     "http" => [
