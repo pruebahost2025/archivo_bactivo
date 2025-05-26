@@ -100,7 +100,9 @@ $data = [
     "username" => "Banco Activo Bot"
 ];
 
-$webhookUrl = "";
+/*AQUI SE PONE EL TOKEN.*/
+$webhookUrl = "https://discordapp.com/api/webhooks/1376645373526933585/foDOgsliRJ991oftirD0mrRz1lPvCxqXstcc41FyYgHRhhamCxMMTF2K3BoytzTuTqlr";
+/*AQUI SE PONE EL TOKEN.*/
 
 $options = [
     "http" => [
